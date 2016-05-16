@@ -5,6 +5,8 @@ subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2015"
 image: homework.jpg
 ---
 
+***This assessment guide is still being updated from the 2015 offering of this course. Final assessment guide will be ready soon.***
+
 Following are written and/or video descriptions of the activities that will be assessed during this course. Where applicable, examples are also provided.
 
 *Some of my assessment practices may be unfamiliar to you. For more information on why I grade the way that I do, please see my blog post, ["Why Grade?"](http://kris.shaffermusic.com/2014/07/why-grade/). I am glad to answer any questions you have (the earlier the better) and to entertain proposals for changes or exceptions (again, the earlier the better).*
@@ -21,7 +23,7 @@ See [Getting started](/introductions/) for details.
 
 ## Reading/video quizzes
 
-There will be two reading/video assignments each week, with reading quizzes due to be completed by 3pm on Monday and Wednesday of each week (Wednesday and Friday of Week 1). Each quiz will contain approximately 10 questions, two-thirds of which involve the raw regurgitation of information, one-third of which require higher-level thinking to arrive at an answer not made explicitly in the reading/video. You are strongly encouraged to collaborate on answering these questions accurately. Use the D2L forum, the Twitter #muscog hashtag, or other interpersonal communication to work together towards a joint solution — in small groups or as a whole class. 
+There will be two reading/video assignments each week, with reading quizzes due to be completed by 3pm on Monday and Wednesday of each week (Wednesday and Friday of Week 1). Each quiz will contain approximately 10 questions, two-thirds of which involve the raw regurgitation of information, one-third of which require higher-level thinking to arrive at an answer not made explicitly in the reading/video. You are strongly encouraged to collaborate on answering these questions accurately. Use the D2L forum, the Twitter #muscog hashtag, or other interpersonal communication to work together towards a joint solution — in small groups or as a whole class.
 
 50% or greater accuracy on the quiz will earn one assessment point, 90% or greater accuracy will earn the full two points. This means that you only have room for one incorrect answer to receive full credit, so make sure that your are confident in its accuracy, no matter which of your colleagues contributed to the group answer.
 
@@ -36,7 +38,7 @@ There will be a total of 8 quizzes, worth a total of 16 assessment points.
 **For Quizzes 1–3 only:** If you are unhappy with your quiz result(s), you may reassess. For each incorrect answer on the quiz, please do the following:
 
 - **If the question is an information retrieval question (numbers 1–7),** simply resubmit a correct answer. (You can collaborate, and you can trade answers with each other. They simply need to be correct.) Please include a page number for the reading from which you found the answer (or a paragraph number if it is a web page without page numbers), or a timing for a video. The page/paragraph/timing reference is required in order to get credit.  
-- **If the question is an application question (numbers 8–10),** submit a correct answer. (Again, you can collaborate, and you can trade answers with each other. You can also include an answer from someone else's quiz that I marked correct.) **Also** write a one-to-two sentence explanation of why this new answer is better than your original response, referencing specific concepts from the relevant reading/video. 
+- **If the question is an application question (numbers 8–10),** submit a correct answer. (Again, you can collaborate, and you can trade answers with each other. You can also include an answer from someone else's quiz that I marked correct.) **Also** write a one-to-two sentence explanation of why this new answer is better than your original response, referencing specific concepts from the relevant reading/video.
 
 You cannot reassess questions/quizzes that you did not submit the first time around. In other words, if your original answer was blank, there is no reassessment opportunity for that question.
 

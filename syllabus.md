@@ -1,9 +1,12 @@
 ---
 layout: page
 title: Syllabus
-subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2015<br/>Kris Shaffer, Ph.D. – instructor"
+subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 20165<br/>Kris Shaffer, Ph.D. – instructor"
 image: path.jpg
 ---
+
+***This syllabus is still being updated from the 2015 offering of this course. Final syllabus will be ready soon.***
+
 
 Music is an art. Music is a language. Music is therapy. Music is [a clinical tool](http://www.musictherapy.org). Music is a [weapon](https://en.wikipedia.org/wiki/Music_in_psychological_operations). Music is an area of humanistic inquiry. Music is math. Music is neuroscience. Music is communal. Music is deeply personal. Music is [bug spray](http://articles.latimes.com/2005/feb/13/entertainment/ca-musichurts13). Music is religion. Music is [identity formation](https://openlibrary.org/works/OL3505052W/Music_in_Everyday_Life). Music is culture. Music is psychology.
 
