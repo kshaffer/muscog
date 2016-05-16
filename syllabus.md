@@ -41,7 +41,7 @@ Because music cognition is a heavily interdisciplinary field, I do not expect al
 - Bob Snyder, [*Music and Memory: An Introduction*](https://openlibrary.org/works/OL2782993W/Music_and_Memory).  
 - David Huron, [*Sweet Anticipation: Music and the Psychology of Expectation*](https://openlibrary.org/works/OL5851060W/Sweet_Anticipation).  
 - [*Open Music Theory*](http://www.openmusictheory.com) (free web access).  
-- A web-enabled device that is capable of reading online text, accessing the course website, recording video, and participating in group video chats.    
+- A web-enabled device that is capable of reading online text, accessing the course website, and participating in group video chats.    
 - Membership in the class [Slack community](https://muscog16.slack.com) (free & private).  
 - An account to [Spotify](http://www.spotify.com) (a free account is fine).
 
