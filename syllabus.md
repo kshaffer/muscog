@@ -23,7 +23,7 @@ See the [Getting started](/introductions/) page.
 ## General course information
 
 Course title: Advanced Topics in Psychology: Music Cognition  
-Course number: PSYC 4541
+Course number: PSYC 4541  
 Term: Summer 2016 (June)  
 Instructor: [Kris Shaffer, Ph.D.](http://kris.shaffermusic.com)  
 Email: kris.shaffer@colorado.edu (backup: kris.shaffer@gmail.com)  
