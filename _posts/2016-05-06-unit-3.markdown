@@ -1,0 +1,8 @@
+---
+layout: default
+image: waterSmall.jpg
+category: Services
+title: Unit 3 – due June 6
+description: |
+<p class="lead"><b>Musical chords and intervals</b><br/><br/>Exploring fundamental concepts of Western musical events.<br/><br/><a href="/unit3/">Read more...</a></p>
+---

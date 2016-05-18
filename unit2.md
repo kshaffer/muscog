@@ -35,4 +35,6 @@ Read/watch the following:
 
 Then take **Quiz 2** on D2L.
 
+Choose *one core concept from Unit 1* and *one core concept from Unit 2*. Write a paragraph explanation of each concept with a musical example, and upload as a MS Word doc or a PDF file to the D2L dropbox. (See [Assignment guide](/assessments) for details.)
+
 Finally, submit your Week 1 self-reflection to the D2L dropbox. (See [Assignment guide](/assessments) for details.)
