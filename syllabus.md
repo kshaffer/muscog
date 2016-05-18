@@ -88,7 +88,7 @@ Assessed coursework will include the following:
 - Reading/video quizzes  
 - Conceptual paragraphs  
 - Weekly reflections  
-- Course-long wiki project  
+- Course-long digital notebook project  
 - Final project (or reassessments)  
 
 For details and examples, please see the [Assignment guide](/assessments/).

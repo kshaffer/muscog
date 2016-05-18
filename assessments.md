@@ -58,15 +58,15 @@ This process is meant to direct your attention to things that can help you impro
 These will be assessed as passed/not-passed (i.e., completed/not-completed). Any honest attempt at addressing (most of) the questions above will receive full credit.
 
 
-## Course-long wiki project  
+## Course-long digital research notebook project  
 
 Knowledge is not received passively into the brain like a file download into a computer. It is constructed in the brain as a result of hard mental effort. Thus, most of our work in this course will not be reading/memorizing/reciting, but instead will be centered around the creation (and curation) of our own individual conceptual maps of knowledge.
 
-We will do this by creating our own connected wiki-like websites — online research notebooks, really — starting in Week 2. The end product will be a set of online study notebooks owned by each student, each of which contains definitions, explanations, and musical applications (with media) for each core concept, as well as links between concepts and links to other individuals in the class. In the spirit of collaborative learning, no student will compose these materials entirely from scratch. Rather, each student will create some of their own resources, and then copy or remix resources created by others in the class. The result will be a network of online study notebooks that each contain a combination of high-quality original material and the best material composed by others.
+We will do this by creating our own connected online research notebooks, starting in Week 2. The end product will be a set of online study notebooks owned by each student, each of which contains definitions, explanations, and musical applications (with media) for each core concept, as well as links between concepts and links to other individuals in the class. In the spirit of collaborative learning, no student will compose these materials entirely from scratch. Rather, each student will create some of their own resources, and then copy or remix resources created by others in the class. The result will be a network of online study notebooks that each contain a combination of high-quality original material and the best material composed by others.
 
 I will maintain the website for these notebooks at [muscogwiki.cubouldermusictheory.com](http://muscogwiki.cubouldermusictheory.com). Each student will be given an account at the beginning of Week 2.
 
-For more details about this project, see the [Wiki Project Guide](/wikiproject/).
+For more details about this project, see the [Digital Notebook Project Guide](/digitalnotebookproject/).
 
 
 ## Final project
