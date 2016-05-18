@@ -5,7 +5,7 @@ subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2016"
 image: memory.jpg
 ---
 
-***All Unit I materials are due at 7am Mountain Daylight Time on Wednesday, June 1.***
+***All Unit 1 materials are due at 7am Mountain Daylight Time on Wednesday, June 1.***
 
 ## Unit introduction
 
