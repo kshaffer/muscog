@@ -13,9 +13,9 @@ image: drain.jpg
 
 Welcome! As you're gearing up for the course, please be sure to examine the [syllabus](/syllabus/) and [course policies](/policies/) carefully. Once you've done so and watched the above video, please do the following **by 7am (MDT) on Wednesday, June 1:**
 
-1. Sign up for the class discussion forum, [Slack](https://muscog16.slack.com). If you are registered at the beginning of the course, you will receive a notification email on or before the first day. If you did not receive one, please email me (kris.shaffer@colorado.edu), and I will make sure you get one. Be sure to use a username that helps us identify you. For example, mine is @kris (though @krisshaffer would have worked as well). Please do not use something that we wouldn't call you in person (like your CU IdentiKey or other cryptic code). The following video (from a previous online course I taught) will help you get familiar with Slack.
-
 <iframe src="https://player.vimeo.com/video/133692325" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/133692325">Introduction to Slack</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+1. Sign up for the class discussion forum, [Slack](https://muscog16.slack.com). If you are registered at the beginning of the course, you will receive a notification email on or before the first day. If you did not receive one, please email me (kris.shaffer@colorado.edu), and I will make sure you get one. Be sure to use a username that helps us identify you. For example, mine is @kris (though @krisshaffer would have worked as well). Please do not use something that we wouldn't call you in person (like your CU IdentiKey or other cryptic code). The above video (from a previous online course I taught) will help you get familiar with Slack.
 
 2. Personalize your Slack account with a picture. Since we're not meeting in person, and since this class goes at an accelerated pace, this (and a more personal username) will help us feel a little more comfortable and collegial with each other.
 
