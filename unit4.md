@@ -29,6 +29,9 @@ Read or watch the following:
 
 Then take **Quiz 4** on D2L.
 
+Take the feedback you received on your Unit 2 paragraphs, revise them, and use them as the basis for your two first posts on your wiki project. See [Wiki Project Guide](/wikiproject/) for details.
+
+
 ### Supplemental material
 
 In these readings, Snyder talks a lot about musical hierarchy without providing any specific examples, which can be confusing. Following are two videos showing a formal outline of pieces of music that will hopefully help elucidate those concepts.
