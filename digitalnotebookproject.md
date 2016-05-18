@@ -13,6 +13,10 @@ Knowledge is not received passively into the brain like a file download into a c
 
 We will do this by creating our own connected online research notebooks, starting in Week 2. The end product will be a set of online study notebooks owned by each student, each of which contains definitions, explanations, and musical applications (with media) for each core concept, as well as links between concepts and links to other individuals in the class. In the spirit of collaborative learning, no student will compose these materials entirely from scratch. Rather, each student will create some of their own resources, and then copy or remix resources created by others in the class. The result will be a network of online study notebooks that each contain a combination of high-quality original material and the best material composed by others.
 
+The following video explains this project in more depth. Be sure to watch it in its entirety before beginning this project.
+
+***video***
+
 ## Details
 
 Each student's digital notebook will contain **36 digital pages** ― one for each *core concept* covered by the course's reading assignments. These will be a combination of original material and curated material. The notebook will include:
