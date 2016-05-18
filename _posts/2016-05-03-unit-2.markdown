@@ -1,0 +1,8 @@
+---
+layout: default
+image: memorySmall.jpg
+category: Services
+title: Unit 1 – due June 1
+description: |
+  <p class="lead"><b>Memory and musical events.</b><br/><br/>We continue to explore the workings of the human auditory system and basic musical concepts.<br/><br/><a href="/unit2/">Read more...</a></p>
+---
